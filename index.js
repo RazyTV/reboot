@@ -112,6 +112,9 @@ client.on("message", async message => {
 	message.delete().catch(O_o=>{});
     client.user.setActivity(setActivity1)
   }
+	 if(command === "veer") {
+message.reply("1.0")
+  }
 
   if(command === "mw") {
     if (message.member.voiceChannel) {
