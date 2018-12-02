@@ -84,4 +84,4 @@ _!short + long url:_ Bot will send a shorter version of the mentioned link (you 
 
 Having trouble? You can report an issue in the [bot repository](https://github.com/RazyTV/reboot)
 
-![Reboot](https://imgur.com/wfIcSVM)
+![Reboot](https://imgur.com/wfIcSVM.png)
