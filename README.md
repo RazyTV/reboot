@@ -43,22 +43,28 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Usage
 
 **Admin**
-_!ban + mention + reason:_  This command bans the mentioned user [Example: !ban @RayzTV idot]  #Ban reason is "idot" 
 
-_!kick + mention + reason:_  If you use this command the mentioned user will be kicked [Example: !kick @RayzTV stop] 
+_!ban + mention + reason:_  This command bans the mentioned user 
+[Example: !ban @RayzTV idot]  #Ban reason is "idot" 
+
+_!kick + mention + reason:_  If you use this command the mentioned user will be kicked 
+[Example: !kick @RayzTV stop] 
 Kick reason will be "stop"
 
-_!say + text to say:_  This command will make the bot say whatever you want [Example: !say hello bois]
+_!say + text to say:_  This command will make the bot say whatever you want 
+[Example: !say hello bois]
 The bot will say hello bois
 
-_!seta + activity:_  This command changes the bot current activity to whatever you want [Example: !seta deleting homework folder]
+_!seta + activity:_  This command changes the bot current activity to whatever you want 
+[Example: !seta deleting homework folder]
 The bot will set its activity to "deleting homework folder"
 
 _!clean + number from 1 to 100:_ This command deletes up to 100 message at a time but it cannot delete message older than 14 days :(
 [Example: !clean 100] Bot clean 100 messages
 
-_!vip + mention:_ The bot will give a vip rank to the mentioned user [Example: !vip @RayzTV stop] Vip is given to RayzTV(not me)
-this command may not work in every server
+_!vip + mention:_ The bot will give a vip rank to the mentioned user 
+[Example: !vip @RayzTV stop] Vip is given to RayzTV(not me)
+This command may not work in every server
 
 **Users**
 
