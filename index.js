@@ -203,7 +203,7 @@ message.reply("1.0")
 
     if(command === "about") {
     message.channel.send("`This bot is running: Ubuntu 18.0.1 SERVER`");
-	message.channel.send("`Bot Script Versionj: 1.3.1`");
+	message.channel.send("`Bot Script Version: 2.5.1`");
 	message.channel.send("`Bot script made with love by: RayzTV`");
 	message.channel.send("`For Slime For Days Discord Server`");
   }
