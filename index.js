@@ -62,7 +62,7 @@ client.on("message", async message => {
     const sayMessage = args.join(" ");
     message.delete().catch(O_o=>{});
     message.channel.send(sayMessage);
-    console.log(`${message.author.tag} used say command. Args: ${sayMessage}`)
+    
 
   }
 
