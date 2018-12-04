@@ -430,4 +430,6 @@ if(!message.member.roles.some(r=>["Creator", "Moderator"].includes(r.name)) )
 }
 });
 
-client.login(config.token);
+var mode = process.env.KEY;
+
+client.login(mode);
