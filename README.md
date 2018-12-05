@@ -14,8 +14,9 @@ This bot can short URLs that can be easily sent via discord. Actually this is a 
 
 ### Audios
 
-This bot can play some meme audios, currently no music beacouse is to har to add :( 
+This bot can play some meme audios, currently no music beacouse is too hard to code :( 
 
+###Commands :)
 
 ```markdown
  
@@ -37,8 +38,6 @@ This bot can play some meme audios, currently no music beacouse is to har to add
 
 `More commands will be added!`
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Usage
 
